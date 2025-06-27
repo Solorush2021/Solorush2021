@@ -5,7 +5,7 @@ I’m out here grinding, slinging code, and building products that actually work
 
 🌱 What I’m sweating over: Right now, I’m debugging a Python script to automate some API calls—tryna cut my workflow time in half. Also messing with Web3 contracts in Solidity, but gas fees are pissing me off. Learning Docker too, ‘cause containers are life.
 
-💞️ Let’s build some shit: I’m down to collab on AI projects (like training a model to roast bad code), open-source tools, or anything that needs a JavaScript or Python fix. If you got a crazy idea, I’m game—just no boring CRUD apps.
+💞️ Let’s build some cool projects: I’m down to collab on AI projects (like training a model to roast bad code), open-source tools, or anything that needs a JavaScript or Python fix. If you got a crazy idea, I’m game—just no boring CRUD apps.
 
 📫 Hit me up:
 Email: vipulpower2009@gmail.com
